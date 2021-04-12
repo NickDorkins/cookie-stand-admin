@@ -8,6 +8,7 @@ Resources Used:
 
 - [Flex Direction](https://tailwindcss.com/docs/flex-direction)
 - ["for" tags in labels](https://stackoverflow.com/questions/698001/whats-the-for-for-in-a-label-tag)
+- [Import React Map](https://www.javatpoint.com/react-map)
 
 
 
