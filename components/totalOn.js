@@ -1,5 +1,5 @@
 export default function TotalOn(props){
-    if (on) {
+    if (props.on) {
         return(
             <th className="border-black">{tableTotals}</th>
         )
