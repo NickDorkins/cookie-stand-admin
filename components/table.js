@@ -1,13 +1,7 @@
 import TableOn from "./tableOn" 
 import TotalOn from "./totalOn"
-// import Stores from "./hardStores"
-// import Hours from "../data"
 import React, { useState } from 'react'
 
-
-
-// const hours = Hours
-// let stores = Stores
 
 export default function Table(props){
     return(
@@ -23,15 +17,17 @@ export default function Table(props){
             </thead>
             <tbody>
                 <tr>
-                    {props.stores.map(data =>(
-                        <td className="border-black">{data}</td>
-                    ))}
+                    {props.stores.map(store =>(
+                        
+                            <td className="border-black">{store}</td>
+                        ))}
                 </tr>
-                {/* {props.cookieData.map(data =>(
+                {/* {props.cookieData.map(cookie =>(
+                    
                     <tr>
-                        <td className="border-black">{data.newlocation}</td>
-                        <td className="border-black">{data.min}</td>
-                        <td className="border-black">{data.max}</td>
+                        <td className="border-black">{cookie.newlocation}</td>
+                        <td className="border-black">{cookie.min}</td>
+                        <td className="border-black">{cookie.max}</td>
                     </tr>
                 ))} */}
             </tbody>

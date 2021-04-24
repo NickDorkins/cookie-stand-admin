@@ -1,5 +1,5 @@
 [Pull Request](https://github.com/NickDorkins/cookie-stand-admin/pull/1)
-
+[Deployed Site](https://clever-bassi-2f09e1.netlify.app/)
 
 
 
