@@ -1,5 +1,5 @@
 [Pull Request](https://github.com/NickDorkins/cookie-stand-admin/pull/1)
-
+[Deployed Site](https://clever-bassi-2f09e1.netlify.app/)
 
 
 
@@ -8,6 +8,7 @@ Resources Used:
 
 - [Flex Direction](https://tailwindcss.com/docs/flex-direction)
 - ["for" tags in labels](https://stackoverflow.com/questions/698001/whats-the-for-for-in-a-label-tag)
+- [Import React Map](https://www.javatpoint.com/react-map)
 
 
 
